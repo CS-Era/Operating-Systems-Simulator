@@ -11,7 +11,7 @@ In particular, the application is able to simulate:
 6) Hashing
 
 -------
-ITA
+*IT Version*
 
 L'applicazione si pone l'obiettivo di simulare il comportamento di un sistema operativo generico, utilizzando gli algoritmi più comuni.
 In particolare l'applicazione è in grado di simulare:
@@ -36,7 +36,9 @@ In particolare l'applicazione è in grado di simulare:
 ## ©️ *Developers*
 
 🙎‍♂️  Erasmo Prosciutto        : N86003546
+
 👨‍💼  Antonio Lanuto           : N86003762
+
 🕵  Biagio Scotto Di Covella : N86003605
 
 
@@ -45,7 +47,9 @@ In particolare l'applicazione è in grado di simulare:
 ### 📬 *Contacts*
 
 @ e.prosciutto@studenti.unina.it
+
 @ an.lanuto@studenti.unina.it
+
 @ b.scottodicovella@studenti.unina.it
 
 
