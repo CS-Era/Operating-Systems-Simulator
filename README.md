@@ -1,4 +1,4 @@
-# 🧩 Operating Systems Simulator
+# 🚦 Operating Systems Simulator
 
 The application aims to simulate the behavior of a generic operating system, using the most common algorithms.
 In particular, the application is able to simulate:
