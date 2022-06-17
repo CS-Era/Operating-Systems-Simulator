@@ -25,6 +25,14 @@ In particolare l'applicazione è in grado di simulare:
 
 
 
+## 📖 *Downloads's Instructions*
+
+The Downloads folder contains various downloadable files for most of today's operating systems
+1) MacOS (ARM & x86)
+2) Windows
+3) Linux (Debian & Red Hat)
+
+
 ## 📑 *Organization and Design Choices*
 
 - Open Source Source Code
