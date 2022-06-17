@@ -5,7 +5,7 @@ In particular, the application is able to simulate:
 
 1) Process scheduling
 2) Pagination of memory
-3) Hard Disck Scheduling
+3) Hard Disk Scheduling
 4) Process synchronization using Mutex
 5) The problem of: "The Philosophers at Supper"
 6) Hashing
