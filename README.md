@@ -18,7 +18,7 @@ In particolare l'applicazione è in grado di simulare:
 
 1) Scheduling dei processi
 2) Paginazione della memoria
-3) Scheduling dell'Hard Disck
+3) Scheduling dell'Hard Disk
 4) Sincronizzazione dei processi con uso di Mutex
 5) Il problema de:  "I Filosofi a Cena"
 6) Hashing
